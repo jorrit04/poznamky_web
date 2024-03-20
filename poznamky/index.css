@@ -46,9 +46,9 @@ button:hover {
 
 
 .hyperlink {
-    color: #446cf0;
+    color: #3751a5;
     border: none;
-    text-decoration: none;
+    text-decoration: underline;
     text-shadow: none;
 }
 
