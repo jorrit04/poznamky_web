@@ -19,6 +19,8 @@ p {
 body {
     background: linear-gradient(#5e63b6, #f5c7f7);
     background-attachment: fixed;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 @font-face {
